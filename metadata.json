@@ -1,0 +1,8 @@
+{
+  "name": "CloudCut Video Editor",
+  "description": "A high-performance, client-side video editor that allows users to trim, crop, and apply filters to videos entirely within the browser using Canvas and MediaRecorder APIs.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
