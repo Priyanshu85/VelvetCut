@@ -29,7 +29,7 @@ const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onUpload }) => {
           </h1>
           <p className="text-slate-400 text-xl font-medium max-w-lg mx-auto leading-relaxed">
             The studio-grade video editor that runs entirely in your browser. 
-            Privacy first. Zero latency.
+            Privacy first.
           </p>
         </div>
 
